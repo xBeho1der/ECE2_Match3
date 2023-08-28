@@ -12,7 +12,7 @@ We will be using the PIXI.js library to create the game environment and handle t
 
 ## 运行截图
 
-![](./static/screenshot.png)
+![](./static/images/screenshot.png)
 
 
 ## 使用说明
