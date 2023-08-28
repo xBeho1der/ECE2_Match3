@@ -12,7 +12,7 @@ We will be using the PIXI.js library to create the game environment and handle t
 
 ## 运行截图
 
-![](./static/images/screenshot.png)
+![运行截图](./build/static/images/screenshot.jpg)
 
 
 ## 使用说明
@@ -40,4 +40,9 @@ npm install
 npm run match3
 ```
 
-如报错与 `node_modules` 相关，请检查 `package.json` 中的 `scripts` 字段中 `match3` 项是否符合您的环境对路径的要求。
+如运行时发生报错，且报错与 `node_modules` 相关，请检查 `package.json` 中的 `scripts` 字段中 `match3` 项是否符合您的环境对路径的要求。
+
+### 游戏方法
+
+1. 鼠标左键单击选中某一方块，再次鼠标左键点击某一方块将取消选定。
+2. 选定某一方块后，可点击其上下左右的方块进行交换，若交换后有三个或以上的方块连成一条线，则消除这些方块。

@@ -13,7 +13,7 @@ module.exports = {
 	},
 	devServer: {
 		contentBase: path.resolve("build"),
-		port: 3002
+		port: 5001
 	},
 	module: {
 		loaders: [

@@ -1,7 +1,7 @@
 {
-  "name": "evatest",
+  "name": "match3",
   "version": "1.0.0",
-  "description": "Eva test task",
+  "description": "match3 games",
   "main": "index.js",
   "scripts": {
     "match3": "node_modules\\.bin\\webpack-dev-server --progress --colors",

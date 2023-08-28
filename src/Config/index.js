@@ -72,7 +72,7 @@ export default {
 	},
 
 	/** Which front tiles are available on the field */
-	"frontCIDs": [1, 2, 3, 4], //default list of pieces on the field
+	"frontCIDs": [1, 2, 3, 4, 9, 10], //default list of pieces on the field
 	// "frontCIDs": [1, 2, 3, 4, 9, 10, 11, 12], //more pieces on the field
 
 	/** Game content */
